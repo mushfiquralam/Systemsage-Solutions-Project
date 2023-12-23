@@ -17,6 +17,7 @@
     </div>
   </div>
   <!-- header section end -->
+
   <!-- quiz1 section -->
   <div class="quiz1 p-1 m-1">
     <!-- quiz1 headline -->
@@ -35,7 +36,7 @@
         </div>
       </div>
       <!-- Bar chart end -->
-      <!-- Pie Chart -->
+      <!-- Doughnut Chart -->
       <div class="col-span-1 pt-1 sm:pt-2 lg:p-2 m-1">
           <div class="md:p-1 m-1">
             <h1 class="sm:text-base md:text-xl text-center font-medium">Percentage of students passed</h1>
@@ -44,7 +45,7 @@
             <canvas id="quiz1DoughnutChart" class="w-48 h-24 lg:w-96 lg:h-48 p-1 m-1 lg:p-3 lg:m-2 xl:p-5"></canvas>
           </div>
       </div>
-      <!-- Pie Chart end -->
+      <!-- Doughnut Chart end -->
     </div>
   </div>
   <!-- quiz1 section end -->
@@ -67,7 +68,7 @@
         </div>
       </div>
       <!-- Bar chart end -->
-      <!-- Pie Chart -->
+      <!-- Doughnut Chart -->
       <div class="col-span-1 pt-1 sm:pt-2 lg:p-2 m-1">
           <div class="md:p-1 m-1">
             <h1 class="sm:text-base md:text-xl text-center font-medium">Percentage of students passed</h1>
@@ -76,7 +77,7 @@
             <canvas id="quiz2DoughnutChart" class="w-48 h-24 lg:w-96 lg:h-48 p-1 m-1 lg:p-3 lg:m-2 xl:p-5"></canvas>
           </div>
       </div>
-      <!-- Pie Chart end -->
+      <!-- Doughnut Chart end -->
     </div>
   </div>
   <!-- quiz2 section end -->
@@ -145,12 +146,7 @@
   </div>
   <!-- Final section end -->
 
+  <!-- Add the js file -->
   <script src="charts.js"></script>
-
-
-
-
-  
-  
 </body>
 </html>
