@@ -7,7 +7,7 @@
   <!-- Include Chart.js from CDN -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-  <title>Semester Report Dashboard</title>
+  <title>Vertical and Horizontal Split</title>
 </head>
 <body class="bg-slate-100">
   <!-- header section -->
